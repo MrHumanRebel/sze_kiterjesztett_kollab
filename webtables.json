@@ -1,0 +1,27 @@
+[
+  {
+    "index": 1,
+    "url": "",
+    "position": {
+      "x": 1265,
+      "y": 650,
+      "z": 200
+    },
+    "orientation": {
+      "x": -4.750302906586512e-8,
+      "y": -0.7071068286895752,
+      "z": 4.750302906586512e-8,
+      "w": 0.7071068286895752
+    },
+    "size": {
+      "width": 1229.8083305358887,
+      "height": 691.767168045044
+    },
+    "resolution": {
+      "width": 1600,
+      "height": 899
+    },
+    "lastLoadedURL": "http://szekedani.nhely.hu/",
+    "autoResolution": true
+  }
+]
