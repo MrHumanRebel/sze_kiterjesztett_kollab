@@ -1,2 +1,2 @@
 # sze_kiterjesztett_kollab
-Kiterjesztett kollaboráció a jövő Internetén // GKNB_INTM039
+Széchenyi István Egyetem // Győr // Kiterjesztett kollaboráció a jövő Internetén // GKNB_INTM039
